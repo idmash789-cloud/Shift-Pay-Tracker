@@ -1,0 +1,7 @@
+# app-ads.txt — Shift & Pay Tracker
+# BEFORE RELEASE: replace pub-XXXXXXXXXXXXXXXX with your real AdMob
+# publisher ID, then host this file at the root of the website you declare
+# in Play Console (e.g. https://yourdomain.com/app-ads.txt).
+# AdMob requires app-ads.txt verification and an app-readiness review
+# before full ad serving on a new app.
+google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0

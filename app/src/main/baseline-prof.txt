@@ -1,0 +1,8 @@
+# Baseline Profile — starter rules for the startup path (MainActivity + Home).
+# Regenerate properly with a Macrobenchmark run after the first working
+# build; these rules only make the release AAB ship a valid profile file.
+# Format: one rule per line, class/method descriptors as in baseline-prof.txt.
+Lcom/shiftpay/tracker/MainActivity;
+Lcom/shiftpay/tracker/MainActivity;->onCreate(Landroid/os/Bundle;)V
+Lcom/shiftpay/tracker/ui/screens/HomeScreenKt;
+Lcom/shiftpay/tracker/data/AppDatabase;

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Shift &amp; Pay Tracker</string>
+    <string name="widget_clock_in">Clock In</string>
+    <string name="widget_clock_out">Clock Out</string>
+</resources>
